@@ -1,8 +1,5 @@
-// Tom Sealey
+// Koby Wood
 // Original work by Daniel Shiffman
-// http://codingtra.in
-// Steering Text Paths
-// Video: https://youtu.be/4hA7G3gup-4
 
 var font;
 var density = 0.25;
